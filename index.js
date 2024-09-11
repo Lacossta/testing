@@ -10,5 +10,9 @@ const createEducation = async () => {
     }
 }
 
+const createJekasFather = () => {
+    //чет делает
+}
+
 createPerson();
 createEducation();
