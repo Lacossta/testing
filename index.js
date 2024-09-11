@@ -11,7 +11,7 @@ const createEducation = async () => {
 }
 
 const createJekasFather = () => {
-    //чет делает
+    console.log("penis")
 }
 
 createPerson();
